@@ -1,3 +1,6 @@
 [submodule "WassersteinGAN"]
 	path = WassersteinGAN
 	url = https://github.com/martinarjovsky/WassersteinGAN
+[submodule "adversarial"]
+	path = adversarial
+	url = https://github.com/goodfeli/adversarial
