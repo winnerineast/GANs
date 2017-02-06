@@ -6,4 +6,5 @@ this is the implementations and papers of Generative Adversarial Networks
 
 # What's here
 ### I put the papers I read here along the time and also will try to implement the algorithm based on the papers.
-- [Human-level concept learning through probabilistic program induction]()
+- [Human-level concept learning through probabilistic program induction](https://github.com/winnerineast/GANs/blob/master/Human-level%20concept%20learning%20through%20probabilistic%20program%20induction.pdf)
+- [Wasserstein GAN]()

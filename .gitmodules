@@ -1,0 +1,3 @@
+[submodule "WassersteinGAN"]
+	path = WassersteinGAN
+	url = https://github.com/martinarjovsky/WassersteinGAN
