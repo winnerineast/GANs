@@ -8,3 +8,4 @@ this is the implementations and papers of Generative Adversarial Networks
 ### I put the papers I read here along the time and also will try to implement the algorithm based on the papers.
 - [Human-level concept learning through probabilistic program induction](https://github.com/winnerineast/GANs/blob/master/Human-level%20concept%20learning%20through%20probabilistic%20program%20induction.pdf)
 - [Wasserstein GAN](https://github.com/winnerineast/GANs/blob/master/Wasserstein%20GAN.pdf)
+- [Towards Principled Methods for Training Generative Adversarial Networks](https://github.com/winnerineast/GANs/blob/master/TOWARDS%20PRINCIPLED%20METHODS%20FOR%20TRAINING%20GENERATIVE%20ADVERSARIAL%20NETWORKS.pdf)
